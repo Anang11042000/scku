@@ -1,0 +1,28 @@
+apt install iptables -y
+echo ""
+echo ""
+netstat -ntlp
+echo ""
+read -p "ENTER UNTUK LANJUT" x
+
+
+
+clear
+echo ""
+echo ""
+echo "   ###################"
+echo "   # P O I N T I N G #"
+echo "   ###################"
+echo " "
+read -p "   Masukan IP sumber : " sum
+read -p "   Port Dari Sumber  : " ps
+read -p "   Port Yang Dibuka Di VPS Ini : " pb
+echo ""
+echo ""
+echo -e " $pb >> $sum >> $ps "
+sleep 2
+iptables -t nat -A PREROUTING -p tcp --dport $pb -j DNAT --to-destination $sum:$ps
+service iptables save
+echo ""
+echo "Pointing Berhasil.."
+echo ""
