@@ -1,0 +1,28 @@
+#!/bin/bash
+apt install -y socat screen
+echo ""
+echo ""
+netstat -ntlp
+echo ""
+read -p "ENTER UNTUK LANJUT" x
+
+
+
+clear
+echo ""
+echo ""
+echo "   ###################"
+echo "   # P O I N T I N G #"
+echo "   ###################"
+echo " "
+read -p "   Masukan IP sumber : " sum
+read -p "   Port Dari Sumber  : " ps
+read -p "   Port Yang Dibuka Di VPS Ini : " pb
+echo ""
+echo ""
+echo -e " $pb >> $sum >> $ps "
+sleep 2
+screen -dmS $pb socat tcp-listen:$pb,reuseaddr,fork, tcp:$sum:$ps
+echo ""
+echo "Pointing Berhasil.."
+echo ""
