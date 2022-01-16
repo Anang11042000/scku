@@ -58,6 +58,8 @@ https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600
 #EXTINF:0 tvg-id="ext", K+
 http://playlist.urfan.web.id/session/4ac99952-7713-11ec-a9e9-8f299906bc5d/uq2663/h/h08/01.m3u8
 
+#EXTINF:0 tvg-id="ext", HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 
 
 ##18+##
