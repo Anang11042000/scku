@@ -61,7 +61,8 @@ http://playlist.urfan.web.id/session/4ac99952-7713-11ec-a9e9-8f299906bc5d/uq2663
 #EXTINF:0 tvg-id="ext", HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 
-
+#EXTINF:0 tvg-id="ext", CINEMAX
+http://ip2121.com:8081/live/cinemax/chunks.m3u8?nimblesessionid=46645346
 ##18+##
 #EXTM3U
 
