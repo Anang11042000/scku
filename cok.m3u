@@ -10,8 +10,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #EXTINF:0 tvg-id="ext" ,INDOSIAR HD
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-
+https://etslive-2-vidio-com.akamaized.net/exp=1642430955~acl=/vp9/8026_stream.mpd!/vp9/8026/*~hmac=e8097af2d7c645614ec669d53b385341b08191159d9f898472121b607a5f4d79/vp9/8026_stream.mpd
 #EXTINF:0 tvg-id="ext" ,MNC TV
 https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 
