@@ -27,9 +27,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 
 #EXTINF:0 tvg-id="ext" ,RTV 
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-http://playlist.urfan.web.id/session/0c9459e8-73c0-11ec-a89d-98c59b1b1601/qwr9ew/s/s12/01.m3u8
-https://streaming.useetv.com/joss/130/rtv/playlist.m3u8?enc=3cBvbAzaFE_ScYizTWJmjw&exp=1642347906&encp=mrHj2fDYJ8XtdtrBI5vk7w&expp=1642356606
+http://playlist.urfan.web.id/session/cb3a01aa-7798-11ec-b2ac-ae57b7ea6a41/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0 tvg-id="ext" , Metro TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
