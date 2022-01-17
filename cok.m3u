@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
-#EXTINF:0 tvg-id="ext" ,layangan putus eps 9B
+#EXTINF:0 group-tittle="drama series indo", layangan putus eps 9B
 https://apd-73270f874ca25b5cad7151fced913eb8.v.smtcdns.com/wetvvarietyts.tc.qq.com/ASaKxNGDGJXqgwK9i262KIxhDfClEJiklBbmvzpu9C38/svp_50125/rxzVw7VG7q_KDFgaEaa7Yem7fht36F7H9_DFG6acEl5NL7Vt-ijBFzSQ5m-dYUM_ADJZf5MoDUSzVkK9A6OJwO4Y9BAayUom8GjYAjPJX58pzIsLU7FwyBTNnkC-hlVcE43P9ZJ8s8NS4cBc3Nn97EBqr8Hd7YvA/gzc_1000117_0b53kmaaqaaaoiajso7cwrq42u6dbbpqadka.f321002.ts.m3u8?ver=4
 
 #EXTINF:0 tvg-id="ext" ,RCTI
