@@ -10,7 +10,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #EXTINF:0 tvg-id="ext" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1642440361~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=83915cc4c01d7b8cfc7fc242e3888f8d88ef664d3ae17329031594056b03ba14/vp9/8025_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1642448358~acl=/hls-p/ingest_205_*/*~hmac=de27f0fffce7ad14e0960a960980a8e53d153e5f6be2aa566b00a354b47c03fc/hls-p/ingest_205_480p/1642441798000.ts
 
 #EXTINF:0 tvg-id="ext" ,MNC TV
 https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
