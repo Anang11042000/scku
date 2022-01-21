@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
-#EXTINF:-1 group-title="drama series indo", layangan putus eps 9B
-https://apd-5444ad7beb4a4c4ff3a2c43bf500553f.v.smtcdns.com/wetvvarietyts.tc.qq.com/A0uLDA5vTxXH4WnWA3hBhIRIJYh-edMQzWyuRK2WlqCY/svp_50125/y5AZQZ45GkEcnlWY85pZDUmQnunqlybYw37BxsqTwHSGwSQO2Iqf2XT8ICp40MC3yzKQ8UgInUsHT9TwuJPGVgVSk7TzdA1Wh4gngt1NJ1cubeg3o-kOiaQCvA-XYm4jVTefTpXOmGY_LdCqXfm_L7gIG4DUdbyP/00_gzc_1000117_0b534uaagaaaduabu7xavbq43zodapuqabsa.f321002.1.ts?index=0&start=0&end=12000&brs=0&bre=736395&ver=4&token=4d778c012399a09b3fbc30c080904546
+#EXTINF:0 tvg-id="ext" ,Soccer chanel 
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:0 tvg-id="ext" ,RCTI
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
